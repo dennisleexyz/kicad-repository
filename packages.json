@@ -5,7 +5,7 @@
             "name": "libmodulo",
             "description": "A collection of symbols/footprints for keyboard design",
 	    "description_full": "This library focuses on keyboard design.",
-            "identifier": "com.github.moduloindustries.libmodulo",
+            "identifier": "com.github.dennisleexyz.libmodulo",
             "type": "library",
             "author": {
                 "Dennis Lee",
@@ -19,7 +19,7 @@
             },
             "license": "CERN-OHL",
             "resources": {
-                "homepage": "https://github.com/moduloindustries/libmodulo"
+                "homepage": "https://github.com/dennisleexyz/libmodulo"
             },
             "versions": [
             ]
