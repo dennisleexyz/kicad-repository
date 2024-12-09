@@ -1,0 +1,16 @@
+{
+    "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
+    "maintainer": {
+        "name": "dennisleexyz",
+        "contact": {
+            "discord": "https://discord.gg/MA2DBqRyEK"
+        }
+    },
+    "name": "dennisleexyz KiCad repository",
+    "packages": {
+        "sha256": "e3f5edd39b67040ceb9b416d666d4b4c10baf023a2e7daa50e6ff2295e02c96b",
+        "update_time_utc": "2024-08-18 14:46:57",
+        "update_timestamp": 1723992417,
+        "url": "https://github.com/dennisleexyz/kicad-repository/raw/main/packages.json"
+    }
+}

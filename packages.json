@@ -1,0 +1,26 @@
+{
+    "packages": [
+        {
+            "$schema": "https://go.kicad.org/pcm/schemas/v1",
+            "name": "libmodulo",
+            "description": "A collection of symbols/footprints for keyboard design",
+	    "description_full": "This library focuses on keyboard design.",
+            "identifier": "com.github.moduloindustries.libmodulo",
+            "type": "library",
+            "author": {
+                "Dennis Lee",
+                "contact": {}
+            },
+            "maintainer": {
+                "Dennis Lee",
+                "contact": {
+                    "discord": "https://discord.gg/MA2DBqRyEK"
+                }
+            },
+            "license": "CERN-OHL",
+            "resources": {
+                "homepage": "https://github.com/moduloindustries/libmodulo"
+            },
+            "versions": [
+            ]
+        },
