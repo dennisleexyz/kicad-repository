@@ -23,15 +23,6 @@
             },
             "versions": [
                 {
-                    "version": "v0.1.1",
-                    "status": "testing",
-                    "kicad_version": "8.0",
-                    "download_sha256": "8a1517039c8b7aecbe074e1d4484cabc03ec4aab886942efb0eae3214693665b",
-                    "download_size": 2209366,
-                    "download_url": "https://github.com/dennisleexyz/libmodulo/releases/download/v0.1.1/KiCAD-PCM-v0.1.1.zip",
-                    "install_size": 12267508
-                },
-                {
                     "version": "1.1",
                     "status": "testing",
                     "kicad_version": "8.0",
