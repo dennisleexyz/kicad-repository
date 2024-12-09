@@ -8,11 +8,11 @@
             "identifier": "com.github.dennisleexyz.libmodulo",
             "type": "library",
             "author": {
-                "Dennis Lee",
+                "name": "Dennis Lee",
                 "contact": {}
             },
             "maintainer": {
-                "Dennis Lee",
+                "name": "Dennis Lee",
                 "contact": {
                     "discord": "https://discord.gg/MA2DBqRyEK"
                 }
@@ -23,4 +23,6 @@
             },
             "versions": [
             ]
-        },
+        }
+    ]
+}
