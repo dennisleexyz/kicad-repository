@@ -4,7 +4,7 @@
             "$schema": "https://go.kicad.org/pcm/schemas/v1",
             "name": "libmodulo",
             "description": "A collection of symbols/footprints for keyboard design",
-	    "description_full": "This library focuses on keyboard design.",
+            "description_full": "This library focuses on keyboard design.",
             "identifier": "com.github.dennisleexyz.libmodulo",
             "type": "library",
             "author": {
@@ -22,6 +22,15 @@
                 "homepage": "https://github.com/dennisleexyz/libmodulo"
             },
             "versions": [
+                {
+                    "version": "v0.1.1",
+                    "status": "testing",
+                    "kicad_version": "8.0",
+                    "download_sha256": "8a1517039c8b7aecbe074e1d4484cabc03ec4aab886942efb0eae3214693665b",
+                    "download_size": 2209366,
+                    "download_url": "https://github.com/dennisleexyz/libmodulo/releases/download/v0.1.1/KiCAD-PCM-v0.1.1.zip",
+                    "install_size": 12267508
+                }
             ]
         }
     ]
