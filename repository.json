@@ -8,9 +8,9 @@
     },
     "name": "dennisleexyz KiCad repository",
     "packages": {
-        "sha256": "30950010118219e327d9dbef22ebcb72abf37fe26171fb609c04b26b53b26ce7",
-        "update_time_utc": "2024-12-09 22:52:53",
-        "update_timestamp": 1733784773,
+        "sha256": "0047e9474cf0d1f525d6a7d8e8990b65bcc862e0cfe4f2c0bcfe8697be6d1305",
+        "update_time_utc": "2024-12-11 01:45:26",
+        "update_timestamp": 1733881526,
         "url": "https://github.com/dennisleexyz/kicad-repository/raw/master/packages.json"
     }
 }
